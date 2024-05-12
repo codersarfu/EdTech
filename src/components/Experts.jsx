@@ -15,7 +15,7 @@ export default function Experts() {
             digital world. Our website is a top online hub that provides a wide variety of technical courses suitable
             for both beginners and experienced experts.
             </h2>
-            <button className='bg-black rounded-full border border-blue-1200 text-white p-2 md:text-[15px] text-[12px]'>Get Started</button>
+            <button className='bg-[#33ff9288] rounded-full border border-blue-400 text-white p-2 md:text-[15px] text-[12px]'>Get Started</button>
             
         </div>
         </div>
